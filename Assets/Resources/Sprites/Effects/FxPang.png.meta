@@ -1,0 +1,1707 @@
+fileFormatVersion: 2
+guid: 83a695ed9f3997349827fd76f0ce25b1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FxPang_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 761
+        width: 106
+        height: 97
+      alignment: 9
+      pivot: {x: 0.49999994, y: 0.46485743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8391b8ae9fe7fc40bea9bc377218f1d
+      internalID: -1177355947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 753
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345fa10435c47da469294e7a56654b31
+      internalID: 1473699695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_2
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 755
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99596292d6f70a04a91b7ea1a25d4cec
+      internalID: 185483584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_3
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 756
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf7a643b80bd734e96b528c3bb64fe2
+      internalID: -1153445080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_4
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 757
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9e6730d1f9cb04aa92e60c0f6c0a75
+      internalID: 669895408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_5
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 753
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62404ea7f726a3479bfb350bbd6602b
+      internalID: -1051733800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_6
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 756
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61cd6f3dff2db042bccf0c70b0cfe6a
+      internalID: -1728604285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_7
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 753
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c610e032a52d9a842ad4543b346d64e8
+      internalID: 133333151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 651
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af0baf5bcee61249965d616103caa17
+      internalID: 214917834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_9
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 653
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69911205f406185418ba2365c9c268ac
+      internalID: 898405232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_10
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 656
+        width: 106
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4531425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e12329da75e4f41b116206ad4d1afb
+      internalID: -1894155754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_11
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 655
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce852527d8812a42912a6a6dc57d658
+      internalID: 2070411878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_12
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 653
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f22435adc6d0cd429e7970b18e32851
+      internalID: -1680748997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_13
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 653
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05bf16eba03eeb439e53259c77a97c0
+      internalID: -1823625442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_14
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 652
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f2885f97f70c64bb8159987bc5f200
+      internalID: -1321455159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_15
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 653
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af16066f753d61e4aa148cc63fdc9f47
+      internalID: 454069116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_16
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 551
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3159995c7ff909f438f9aa83294df984
+      internalID: 1461314613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_17
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 550
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9570285384b1ec749b1b07ef82d2ca23
+      internalID: -936471624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_18
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 551
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc21ae2a32a5e1449a01f10d0df1558e
+      internalID: 1019178021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_19
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 554
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa52983efc9c9042b4639cf15da085c
+      internalID: -269849594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_20
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 551
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f0141fd101c814b8bc78cd6fcc6440
+      internalID: -216127798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_21
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 548
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222c4bd1648b01345b8d71fb89378b69
+      internalID: 1831294013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_22
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 548
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07af162722ea5344f981f70ab339b53e
+      internalID: 1211647434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_23
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 550
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2411036667c4ce44b80655a456f13aa4
+      internalID: 1023855022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_24
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 452
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6279f9cee053e447b7943acac27df5a
+      internalID: -1275348522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 451
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257b0c1acdcc94c4291c348852fe283f
+      internalID: -2096725799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_26
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 451
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61202d34e8eb68b429eb95548567c6e6
+      internalID: 1606005122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_27
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 450
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147114f32dc95bc4ca9c6d6baf3d0baf
+      internalID: 1780018633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_28
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 448
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b6bb566af6ce6499edb610930b1542
+      internalID: 900562938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_29
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 447
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e4d5e1829fe084d94efb9e0230a0f4
+      internalID: -2069370044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_30
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 448
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e3795d0cda45c469c946b563090b11
+      internalID: 997751246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_31
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 450
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5763edaa7f5994a9831feb6e7a0db1
+      internalID: 1034368430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_32
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 350
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04768414a4db6224d9e7a2ad0c7ffdf3
+      internalID: -1383903277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_33
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 359
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffed16add7908d4a98ab85606298525
+      internalID: -1164103814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_34
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 356
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9821e81f180d01547ab812f5db1706f5
+      internalID: -972227366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_35
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 358
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544f0f2038b1ec24c984d4a0a0cb193c
+      internalID: 512767556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_36
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 362
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e4df904867e014f974be017a3ec228
+      internalID: 736894603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_37
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 352
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda2c11d7fb275c45a48c73c130d7f56
+      internalID: -1390426612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_38
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 359
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2a87f5fdd709642af2d58930fad88f
+      internalID: 1685199418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_39
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 365
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee51576589314584bab6355a1ee87575
+      internalID: -1225354344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_40
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 263
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb6ab4ff84866d409e826f931a88b67
+      internalID: -140807287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_41
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 263
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5259c8fd11897634495b0bc2d52a8f35
+      internalID: 565711753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_42
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 254
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2866b7a5c3141f94f9d024879632523e
+      internalID: -2055545644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_43
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 262
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd63101f22483af4ea8f46bc3964d4ba
+      internalID: 907623339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_44
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 254
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a68f302afc32ce4e95396bb367ac6ae
+      internalID: -1308830811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_45
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 267
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecb6605fe72ba34ab712dbb5c73f1da
+      internalID: -1155144142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_46
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 258
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0c9e9a92e3d614cb744f359322a87a
+      internalID: -2022320133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_47
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 161
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01437bad82ad03d4abb7ec1c79fc6be5
+      internalID: -2005120467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_48
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 169
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d916311732ac64aaabafd2ea4e94f1
+      internalID: -418302535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_49
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 169
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8d739b394f1ad42a424747a5bef366
+      internalID: 650948715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_50
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 166
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04ed57138dd8414b96369d24c20bad2
+      internalID: 710692001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_51
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 161
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1cd8d79e602374e829500e9c365a18
+      internalID: 1239866008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_52
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 167
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4709714bc48ca4a4a9a7b84be972ac6e
+      internalID: -1452861580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_53
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 156
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc82169b63babb4e80dcb6691f7a73c
+      internalID: 1956903630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_54
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 149
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17b279fb5dcbfb4ebdec5702b278d86
+      internalID: -2069608144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_55
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 260
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9422985017ea374ea7fcf7bd868a5f2
+      internalID: -500604055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_56
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 101.333336
+        width: 105.875
+        height: 96.666664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa68fc797c43fa40b1f270166bf2885
+      internalID: -1535595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_57
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 101.333336
+        width: 105.875
+        height: 96.666664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3521eec0d81a2240bf5e695c6254596
+      internalID: -132447909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_58
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 101.333336
+        width: 105.875
+        height: 96.666664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4199ccf2102ba454794efc7e5a8be46e
+      internalID: -841635077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_59
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 98
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce87564994ace304ab7cae6d98e6847b
+      internalID: -1721117818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_60
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 101.333336
+        width: 105.875
+        height: 96.666664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacde7004396822419bd233773d3f650
+      internalID: -658269038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_61
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 101.333336
+        width: 105.875
+        height: 96.666664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ca91d212014e843b3bfca6f8cbb1dd
+      internalID: 2001510134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_62
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 101.333336
+        width: 105.875
+        height: 96.666664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b84fbc8c907cf4883065ba2ab345b7
+      internalID: -219657686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_63
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 120
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3e51317a67e0848818951428c9bc39
+      internalID: -2008248198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_64
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 5.333336
+        width: 105.875
+        height: 96.666664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9382d793de4f74ab33fb7e35a55c32
+      internalID: 969835035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_65
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 5.333336
+        width: 105.875
+        height: 96.666664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f8fad3a1ff1884cbdf5cdd26d5c589
+      internalID: -938645523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_66
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 5.333336
+        width: 105.875
+        height: 96.666664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e99b122af0083c4f8e2a8846dd79f33
+      internalID: -1518462200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_67
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 5.333336
+        width: 105.875
+        height: 96.666664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4d58fc9d627b34391b2e6fb2803e12
+      internalID: 387958685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_68
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 5.333336
+        width: 105.875
+        height: 96.666664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee7920442cca664ba441a6588e08be7
+      internalID: -1492661119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_69
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 5.333336
+        width: 105.875
+        height: 96.666664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2dfa892c40c444f8a9b611aec16a1a
+      internalID: 1526330647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_70
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 5.333336
+        width: 105.875
+        height: 96.666664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fd8cf9774d4dd4298e2b77b36ac5ee
+      internalID: 1083820468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FxPang_71
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 5.333336
+        width: 105.875
+        height: 96.666664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12308b060c8bcb46acb3bd2733fabe4
+      internalID: -1379638170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2ed6a91df1957974a8f97254e82e4f83
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FxPang_20: -216127798
+      FxPang_31: 1034368430
+      FxPang_40: -140807287
+      FxPang_54: -2069608144
+      FxPang_63: -2008248198
+      FxPang_28: 900562938
+      FxPang_52: -1452861580
+      FxPang_3: -1153445080
+      FxPang_58: -841635077
+      FxPang_34: -972227366
+      FxPang_25: -2096725799
+      FxPang_19: -269849594
+      FxPang_59: -1721117818
+      FxPang_43: 907623339
+      FxPang_12: -1680748997
+      FxPang_24: -1275348522
+      FxPang_66: -1518462200
+      FxPang_1: 1473699695
+      FxPang_22: 1211647434
+      FxPang_69: 1526330647
+      FxPang_13: -1823625442
+      FxPang_14: -1321455159
+      FxPang_23: 1023855022
+      FxPang_57: -132447909
+      FxPang_68: -1492661119
+      FxPang_32: -1383903277
+      FxPang_0: -1177355947
+      FxPang_51: 1239866008
+      FxPang_36: 736894603
+      FxPang_5: -1051733800
+      FxPang_65: -938645523
+      FxPang_70: 1083820468
+      FxPang_53: 1956903630
+      FxPang_2: 185483584
+      FxPang_45: -1155144142
+      FxPang_15: 454069116
+      FxPang_67: 387958685
+      FxPang_46: -2022320133
+      FxPang_11: 2070411878
+      FxPang_48: -418302535
+      FxPang_7: 133333151
+      FxPang_33: -1164103814
+      FxPang_47: -2005120467
+      FxPang_64: 969835035
+      FxPang_61: 2001510134
+      FxPang_6: -1728604285
+      FxPang_60: -658269038
+      FxPang_56: -1535595
+      FxPang_44: -1308830811
+      FxPang_16: 1461314613
+      FxPang_21: 1831294013
+      FxPang_10: -1894155754
+      FxPang_35: 512767556
+      FxPang_37: -1390426612
+      FxPang_29: -2069370044
+      FxPang_50: 710692001
+      FxPang_42: -2055545644
+      FxPang_49: 650948715
+      FxPang_27: 1780018633
+      FxPang_38: 1685199418
+      FxPang_55: -500604055
+      FxPang_17: -936471624
+      FxPang_62: -219657686
+      FxPang_71: -1379638170
+      FxPang_8: 214917834
+      FxPang_9: 898405232
+      FxPang_30: 997751246
+      FxPang_26: 1606005122
+      FxPang_18: 1019178021
+      FxPang_4: 669895408
+      FxPang_39: -1225354344
+      FxPang_41: 565711753
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
